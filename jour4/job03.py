@@ -3,6 +3,5 @@ def liste_fruits():
   fruits.append("melon")
   return fruits
 
-# Exemple d'utilisation
 fruits=liste_fruits()
 print(fruits)
